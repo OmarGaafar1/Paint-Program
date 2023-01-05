@@ -17,6 +17,7 @@
 * Play the kid's Drawing with 1 sec delay between each operation
 * Save And Load files
 * Play Mode which gives the kid tasks to do 
+* sound telling the kid the name of the drawn figure
 
 ***
 
