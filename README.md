@@ -23,3 +23,7 @@
 ## ScreenShoots
 
 ![Capture](https://user-images.githubusercontent.com/92587188/210892386-6325c897-f857-4a36-9689-31aab7437313.JPG)
+
+### Play - Mode
+
+![Capture3](https://user-images.githubusercontent.com/92587188/210892700-14f49e3c-e113-4b72-9417-c56b6b4b25b3.JPG)
