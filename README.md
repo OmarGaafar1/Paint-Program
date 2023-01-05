@@ -5,7 +5,7 @@
 
 #Features 
 
-..*Drawing  different figures (Square , Triangle , Cirlce , Hexagonal , Rectangle)
+*Drawing  different figures (Square , Triangle , Cirlce , Hexagonal , Rectangle)
 
 ..* Selecting figures for further actions
 ..* Changing each figure's DrawingColor and FillColor
