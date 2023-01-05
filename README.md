@@ -3,7 +3,7 @@
 ## Program for kids from which they can learn the differencecs between figures and colors in an amusing way
 
 
-# Features 
+# :rocket: Features 
 
 ***
 
