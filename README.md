@@ -16,6 +16,6 @@
 * Record the kid's drawings (up tp 30 operations)
 * Play the kid's Drawing with 1 sec delay between each operation
 * Save And Load files
-* Play Mode which give the kid tasks to do 
+* Play Mode which gives the kid tasks to do 
 
 ***
