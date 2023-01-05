@@ -3,9 +3,11 @@
 ## Program for kids from which they can learn the differencecs between figures and colors in an amusing way
 
 
-#Features 
+# Features 
 
-*Drawing  different figures (Square , Triangle , Cirlce , Hexagonal , Rectangle)
+***
+
+* Drawing  different figures (Square , Triangle , Cirlce , Hexagonal , Rectangle)
 
 ..* Selecting figures for further actions
 ..* Changing each figure's DrawingColor and FillColor
